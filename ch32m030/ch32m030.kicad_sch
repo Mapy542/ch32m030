@@ -10526,17 +10526,6 @@
 		)
 		(uuid "aea5d205-7b63-4f1c-8527-a0823acaa04a")
 	)
-	(label "SYNC"
-		(at 146.05 182.88 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "aeb99d5a-d22d-4c2e-9103-f9391556a9d2")
-	)
 	(label "UART_RX"
 		(at 43.18 138.43 180)
 		(fields_autoplaced yes)
