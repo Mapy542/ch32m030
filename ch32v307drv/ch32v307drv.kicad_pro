@@ -600,16 +600,24 @@
       "Root"
     ],
     [
-      "ec6c92c1-a560-4337-a64b-9aa1ca2255e2",
-      "fets"
-    ],
-    [
       "7a076ab7-7f8a-4192-a9a7-253a0d97f03a",
       "usb_c"
     ],
     [
-      "399dee4b-9b94-416b-9d17-0afe9b73965e",
-      "Gates+Fets"
+      "bafa0aa6-3f47-49a2-a497-2541e6ac7838",
+      "encoder1"
+    ],
+    [
+      "e57f6dbc-9a1f-49bc-b6c1-a8e5f8d7e533",
+      "can"
+    ],
+    [
+      "95094214-6e81-43b6-8508-3099bb7bd045",
+      "GANFETS"
+    ],
+    [
+      "8c11c1e7-fc8f-4ca6-bb64-f147bace7673",
+      "5vBuck"
     ]
   ],
   "text_variables": {}
